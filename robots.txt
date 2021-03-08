@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://RyanDavis-bcw.github.io/blogsitemap.xml
